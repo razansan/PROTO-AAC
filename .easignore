@@ -1,0 +1,24 @@
+# Exclude unnecessary files to reduce build size
+node_modules/
+.git/
+.vscode/
+*.log
+*.md
+*.zip
+*.tar.gz
+
+# Exclude development files
+.env.local
+.env.development
+.env.test
+
+# Exclude build artifacts
+dist/
+build/
+*.apk
+*.aab
+*.ipa
+
+# Exclude temporary files
+.tmp/
+.cache/
