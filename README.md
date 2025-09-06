@@ -191,7 +191,7 @@ npx expo build:ios
 
 ## 📄 Lisensi
 
-Proyek ini dikembangkan untuk tujuan edukasi dan terapi AAC.
+Proyek ini digunakan untuk perlombaan OPSI dan sudah saya lisensikan kepada yang melombakan 
 
 ---
 
